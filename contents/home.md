@@ -6,11 +6,12 @@ He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS)
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: TyRollo2013@gmail.com   
+LinkedIn: https://www.linkedin.com/in/tyler-rollo/
+GitHub: https://github.com/TylerRollo/
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.S.C.S, Computer Science, West Virginia University, 2020-2024
 
-#### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+#### Special Interests
+Networking, IT Systems, and Software Development
