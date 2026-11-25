@@ -16,13 +16,13 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: User Name&ensp;|&ensp;姓名
+    title: Tyler Rollo
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: EMPLOYMENT
-    title: PUBLICATIONS
+    title: EMPLOYMENT
     icon: bi-file-text-fill
   - id: awards
     nav: PROJECTS AND CERTIFICATIONS
-    title: AWARDS
+    title: PROJECTS AND CERTIFICATIONS
     icon: bi-award-fill
