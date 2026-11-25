@@ -6,12 +6,14 @@ He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS)
 
 #### Contact
 
-Email: TyRollo2013@gmail.com   
-LinkedIn: https://www.linkedin.com/in/tyler-rollo/
-GitHub: https://github.com/TylerRollo/
+Email: TyRollo2013@gmail.com   \
+LinkedIn: https://www.linkedin.com/in/tyler-rollo/ \
+GitHub: https://github.com/TylerRollo/ \
+
 
 #### Education
 B.S.C.S, Computer Science, West Virginia University, 2020-2024
 
+
 #### Special Interests
-Networking, IT Systems, and Software Development
+Network Engineering, Cloud Computing and infrastructure, Information Technology, and Software Development

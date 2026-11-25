@@ -1,5 +1,5 @@
 title: User Name's Homepage
-page-top-title: User Name
+page-top-title: Tyler Rollo
 top-section-bg-text: Computer Science
 backgrounds:
   - static/assets/background/background_0.jpeg
@@ -9,7 +9,7 @@ background-overlay: 0.52
 copyright-text: '&copy; Sen Li 2023-2026. All Rights Reserved.'
 github-link:
   text: Github
-  href: https://github.com/senli1073
+  href: https://github.com/TylerRollo/
 license-link:
   text: License
   href: https://github.com/senli1073/senli1073.github.io/blob/main/LICENSE
@@ -19,10 +19,10 @@ sections:
     title: User Name&ensp;|&ensp;姓名
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
-    nav: PUBLICATIONS
+    nav: EMPLOYMENT
     title: PUBLICATIONS
     icon: bi-file-text-fill
   - id: awards
-    nav: AWARDS
+    nav: PROJECTS AND CERTIFICATIONS
     title: AWARDS
     icon: bi-award-fill
