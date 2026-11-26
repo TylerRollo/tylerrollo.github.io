@@ -16,7 +16,7 @@ license-link:
 sections:
   - id: home
     nav: HOME
-    title: Tyler
+    title: Tyler Rollo
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: EMPLOYMENT
