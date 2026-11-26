@@ -18,11 +18,11 @@ sections:
     nav: HOME
     title: Tyler Rollo
     href: '#page-top' # Default to '#<id>' if not specified
-  - id: publications
+  - id: employment
     nav: EMPLOYMENT
     title: EMPLOYMENT
     icon: bi-file-text-fill
-  - id: awards
+  - id: projects and certifications
     nav: PROJECTS AND CERTIFICATIONS
     title: PROJECTS AND CERTIFICATIONS
     icon: bi-award-fill
