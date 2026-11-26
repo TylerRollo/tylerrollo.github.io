@@ -45,7 +45,7 @@ PROJECTS AND CERTIFICATIONS
 
 ---
 
-## Academic & Capstone Projects
+### School Projects
 
 ### MPX Operating System Project
 - **Key Highlights:** Intel i386 Architecture, C, Assembly, Process Management, Memory Allocation, Interrupt-Driven I/O, Device Drivers, CLI, Scheduling, GCC, NASM, Linux.
