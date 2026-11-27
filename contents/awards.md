@@ -1,5 +1,5 @@
 ## Personal Projects
----
+***
 ### Flashcard-v3 (Containerized Deployment & Network Tunneling)
 - **Key Highlights:** Docker & Docker Compose, Three-Tier Architecture, Node.js/Express, MySQL 8.0, Bridge Networking, Cloudflare Tunnels, Git & Container Registry, Windows & Debian Linux.
 - Designed, containerized, and deployed a three-tier flashcard study platform (React, Node.js/Express, MySQL 8.0) using Docker Compose and a custom bridge network. Managed service dependencies, health checks, container registries, Git workflows, and outbound Cloudflare Tunnels across Windows and Debian Linux to bypass restricted NAT/firewall environments without inbound port forwarding, while scoping application-layer input validation, secret management, and access controls.
@@ -39,11 +39,9 @@
 ### Custom Firmware & Embedded Systems Integration Project
 - **Key Highlights:** Low-Level Firmware, OS Exploitation (DNS Redirection), FAT32 Storage Arrays, cIOS, BootMii/Prioloader, Brick Protection.
 - Engineered a custom firmware deployment on legacy hardware using OS exploitation vectors (DNS redirection and payload injection) to bypass hardware restrictions. Configured FAT32 file systems and multi-drive storage arrays for cross-platform media hosting, and deployed custom IOS modules (cIOS 249/250) alongside BootMii/Prioloader for update suppression, raw NAND backups, and brick protection.
-
----
-
+&nbps;
 ## School Projects
----
+***
 ### MPX Operating System Project
 - **Key Highlights:** Intel i386 Architecture, C, Assembly, Process Management, Memory Allocation, Interrupt-Driven I/O, Device Drivers, CLI, Scheduling, GCC, NASM, Linux.
 - Built an operating-system-like environment targeting the Intel i386 architecture in C and Assembly on Linux using GCC and NASM. Implemented process management, memory allocation, interrupt-driven I/O, custom device drivers, scheduling algorithms, asynchronous operations, and an interactive CLI.
@@ -65,11 +63,9 @@
 ### Interactive Display System
 - **Key Highlights:** Python, Linux (Ubuntu 22.04), UDP Networking, EcoCar Competition.
 - Collaborated on a 4-person team to build a Python display system on Ubuntu 22.04 using UDP networking to communicate between host and display while meeting EcoCar competition requirements.
-
----
-
+&nbps;
 ## Certifications
----
+***
 - **AWS Certified Cloud Practitioner Certification** &mdash; Amazon Web Services (AWS) &bull; *Earned: May 2024*
 - **Terraform Udemy Course (Beginner to Expert)** &mdash; Infrastructure as Code for Cloud Computing &bull; *Completed: Feb 2024*
 - **CompTIA Security+ Certification** &mdash; Cybersecurity Certification &bull; *Completed: May 2025*
