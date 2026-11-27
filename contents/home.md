@@ -6,7 +6,6 @@
 
 &nbsp;
 #### Contact
-- **Email:** [tyrollo2013@gmail.com](mailto:TyRollo2013@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tyler-rollo](https://www.linkedin.com/in/tyler-rollo/)
 - **GitHub:** [github.com/TylerRollo](https://github.com/TylerRollo)
 
