@@ -1,5 +1,6 @@
 
 PROJECTS AND CERTIFICATIONS
+---
 
 ## Personal Projects
 
@@ -46,7 +47,7 @@ PROJECTS AND CERTIFICATIONS
 ---
 
 ## School Projects
-
+---
 ### MPX Operating System Project
 - **Key Highlights:** Intel i386 Architecture, C, Assembly, Process Management, Memory Allocation, Interrupt-Driven I/O, Device Drivers, CLI, Scheduling, GCC, NASM, Linux.
 - Built an operating-system-like environment targeting the Intel i386 architecture in C and Assembly on Linux using GCC and NASM. Implemented process management, memory allocation, interrupt-driven I/O, custom device drivers, scheduling algorithms, asynchronous operations, and an interactive CLI.
@@ -72,7 +73,7 @@ PROJECTS AND CERTIFICATIONS
 ---
 
 ## Certifications
-
+---
 - **AWS Certified Cloud Practitioner Certification** &mdash; Amazon Web Services (AWS) &bull; *Earned: May 2024*
 - **Terraform Udemy Course (Beginner to Expert)** &mdash; Infrastructure as Code for Cloud Computing &bull; *Completed: Feb 2024*
 - **CompTIA Security+ Certification** &mdash; Cybersecurity Certification &bull; *Completed: May 2025*
