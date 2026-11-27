@@ -38,9 +38,9 @@
 
 ### Custom Firmware & Embedded Systems Integration Project
 - **Key Highlights:** Low-Level Firmware, OS Exploitation (DNS Redirection), FAT32 Storage Arrays, cIOS, BootMii/Prioloader, Brick Protection.
-- Engineered a custom firmware deployment on legacy hardware using OS exploitation vectors (DNS redirection and payload injection) to bypass hardware restrictions. Configured FAT32 file systems and multi-drive storage arrays for cross-platform media hosting, and deployed custom IOS modules (cIOS 249/250) alongside BootMii/Prioloader for update suppression, raw NAND backups, and brick protection.
+- Engineered a custom firmware deployment on legacy hardware using OS exploitation vectors (DNS redirection and payload injection) to bypass hardware restrictions. Configured FAT32 file systems and multi-drive storage arrays for cross-platform media hosting, and deployed custom IOS modules (cIOS 249/250) alongside BootMii/Prioloader for update suppression, raw NAND backups, and brick protection. \
 
-&nbps;
+
 ## School Projects
 ***
 ### MPX Operating System Project
@@ -63,9 +63,8 @@
 
 ### Interactive Display System
 - **Key Highlights:** Python, Linux (Ubuntu 22.04), UDP Networking, EcoCar Competition.
-- Collaborated on a 4-person team to build a Python display system on Ubuntu 22.04 using UDP networking to communicate between host and display while meeting EcoCar competition requirements.
+- Collaborated on a 4-person team to build a Python display system on Ubuntu 22.04 using UDP networking to communicate between host and display while meeting EcoCar competition requirements. \
 
-&nbps;
 ## Certifications
 ***
 - **AWS Certified Cloud Practitioner Certification** &mdash; Amazon Web Services (AWS) &bull; *Earned: May 2024*
