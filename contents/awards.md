@@ -1,9 +1,5 @@
-
-PROJECTS AND CERTIFICATIONS
----
-
 ## Personal Projects
-
+---
 ### Flashcard-v3 (Containerized Deployment & Network Tunneling)
 - **Key Highlights:** Docker & Docker Compose, Three-Tier Architecture, Node.js/Express, MySQL 8.0, Bridge Networking, Cloudflare Tunnels, Git & Container Registry, Windows & Debian Linux.
 - Designed, containerized, and deployed a three-tier flashcard study platform (React, Node.js/Express, MySQL 8.0) using Docker Compose and a custom bridge network. Managed service dependencies, health checks, container registries, Git workflows, and outbound Cloudflare Tunnels across Windows and Debian Linux to bypass restricted NAT/firewall environments without inbound port forwarding, while scoping application-layer input validation, secret management, and access controls.
