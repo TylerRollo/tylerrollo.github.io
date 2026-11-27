@@ -73,9 +73,9 @@ PROJECTS AND CERTIFICATIONS
 
 ## Certifications
 
-- **AWS Certified Cloud Practitioner** &mdash; Amazon Web Services (AWS) &bull; *Earned: May 2024*
-- **Terraform Course (Beginner to Expert)** &mdash; Infrastructure as Code for Cloud Computing &bull; *Completed: Feb 2024*
-- **CompTIA Security+** &mdash; Cybersecurity Certification &bull; *Completed: May 2025*
+- **AWS Certified Cloud Practitioner Certification** &mdash; Amazon Web Services (AWS) &bull; *Earned: May 2024*
+- **Terraform Udemy Course (Beginner to Expert)** &mdash; Infrastructure as Code for Cloud Computing &bull; *Completed: Feb 2024*
+- **CompTIA Security+ Certification** &mdash; Cybersecurity Certification &bull; *Completed: May 2025*
 - **CompTIA A+ Course** &mdash; Foundational IT &amp; Hardware/OS Support &bull; *Completed: Feb 2026*
 - **CompTIA Network+ Course** &mdash; Networking Fundamentals &amp; Troubleshooting &bull; *Completed: Apr 2026*
 - **Cisco Certified Network Associate (CCNA)** &mdash; Routing, Switching &amp; Network Security &bull; *In Progress*
