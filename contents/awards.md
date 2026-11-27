@@ -52,6 +52,8 @@
 - **Key Highlights:** Low-Level Firmware, OS Exploitation (DNS Redirection), FAT32 Storage Arrays, cIOS, BootMii/Prioloader, Brick Protection.
 - Engineered a custom firmware deployment on legacy hardware using OS exploitation vectors (DNS redirection and payload injection) to bypass hardware restrictions. Configured FAT32 file systems and multi-drive storage arrays for cross-platform media hosting, and deployed custom IOS modules (cIOS 249/250) alongside BootMii/Prioloader for update suppression, raw NAND backups, and brick protection.
 
+---
+
 ### Automated Off-Site Backup System for Debian Server using restic, rclone, and systemd
 - **Key Highlights:** Linux System Administration, Debian 13, restic, rclone, systemd Timers, Docker, MySQL, Disaster Recovery, Monitoring.
 - Designed and deployed an automated, encrypted off-site backup pipeline for a Debian 13 server, using restic for deduplicated snapshots and rclone to store them in Google Drive. Configured systemd service and timer units to run every 3 days with automatic catch-up after reboots or power loss, scripted pre-backup MySQL dumps from a Docker container, and enforced a one-month retention policy with automated pruning. Integrated Healthchecks.io dead-man's-switch monitoring for failure alerts, and documented a full disaster-recovery procedure for rebuilding the server from backup.
