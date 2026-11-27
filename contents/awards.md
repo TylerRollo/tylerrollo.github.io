@@ -66,7 +66,7 @@
 
 - - **GitHub:** [[pure_pursuit_node](https://github.com/TylerRollo/pure_pursuit_node/)]
 - - **GitHub:** [[gap_follow_node](https://github.com/TylerRollo/gap_follow_node/)] 
-- - **GitHub:** [[wall_follow_node](https://github.com/TylerRollo/wall_follow_node/)] https://github.com/TylerRollo/
+- - **GitHub:** [[wall_follow_node](https://github.com/TylerRollo/wall_follow_node/)]
 - - **GitHub:** [[CPE 493B Project](https://github.com/TylerRollo/CPE493B/)]
   
 ---
