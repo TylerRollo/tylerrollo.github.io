@@ -4,13 +4,8 @@
 
 **Bachelor of Science in Computer Science (B.S.C.S.)** graduate from **West Virginia University** focused on designing resilient network architectures, managing cloud and enterprise infrastructure, and building full-stack software.
 
-<<<<<<< HEAD
-### Contact
-- **Email:** [TyRollo2013@gmail.com](mailto:tyrollo2013@gmail.com)
-=======
 &nbsp;
 #### Contact
->>>>>>> 020b882dd6087238e7b411a6a1ffd29ef659c337
 - **LinkedIn:** [linkedin.com/in/tyler-rollo](https://www.linkedin.com/in/tyler-rollo/)
 - **GitHub:** [github.com/TylerRollo](https://github.com/TylerRollo)
 
