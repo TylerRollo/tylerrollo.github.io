@@ -1,5 +1,3 @@
-EMPLOYMENT
-
 ### Program Analyst | EnProVera
 **Clarksburg, WV** &bull; *Oct 2026 – Present*
 
@@ -10,7 +8,7 @@ EMPLOYMENT
 ---
 
 ### IT Specialist | Atlantic Coast Automotive Group
-**Morgantown, WV** &bull; *Jan 2026 – Present*
+**Morgantown, WV** &bull; *Jan 2026 – Oct 2026*
 
 - **Enterprise Tier 2 Support:** Deliver Tier 2 technical support as part of a 4-person team across 11 multi-site enterprise locations.
 - **Systems & Access Administration:** Troubleshoot Windows 10/11, network connectivity, peripherals, and mobile devices while managing **Active Directory**, **MFA**, and user provisioning.
